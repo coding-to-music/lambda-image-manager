@@ -1,5 +1,7 @@
 # Lambda Image Manager
 
+https://github.com/coding-to-music/lambda-image-manager
+
 https://github.com/TylerShin/lambda-image-manager
 
 https://www.serverless.com/examples/lambda-image-manager
